@@ -1,7 +1,7 @@
 const typedInput = document.getElementById("alarmSet"); // Assuming the input field is named "alarmSet"
 const timeRemaining = document.getElementById("timeRemaining"); // Assuming the span element is named "timeRemaining"
 const button = document.getElementById("set"); // Assuming the button element is named "set"
-const stopButton = document.getElementById("stop"); // Assuming the button element is named "stop"
+const stopButton = document.getElementById("stop"); /// Assuming the button element is named "stop"
 
 let alarmTime; // declaring a Variable to store the alarm time
 
